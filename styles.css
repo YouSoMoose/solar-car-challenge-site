@@ -1,7 +1,7 @@
 body{
   margin:0;
-  font-family: "Segoe UI", Arial;
-  background:#f7fbff;
+  font-family:Segoe UI, Arial;
+  background:#f4fbff;
 }
 
 .navbar{
@@ -31,15 +31,6 @@ body{
   padding:90px 20px;
   background:linear-gradient(135deg,#00c6ff,#00ff9d);
   color:white;
-}
-
-.btn{
-  background:#ff6600;
-  padding:12px 22px;
-  border-radius:8px;
-  color:white;
-  text-decoration:none;
-  font-weight:bold;
 }
 
 .section{
